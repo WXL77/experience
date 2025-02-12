@@ -62,7 +62,7 @@
 42. 如何筛选特征
 43. 了解广告归因吗？
 44. 什么是AB实验？
-45. where和having的区别？
+45. where和having的区别？  
     where可以使用在select，update，delect和insert语句中，having只能用于select语句中
     having是在分组之后进行筛选，where是在分组之前进行筛选，
     having后可以使用聚合函数，where不行
